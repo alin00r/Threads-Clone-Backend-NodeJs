@@ -83,6 +83,13 @@ All the models can be found in the models directory created using mongoose.
   - username (String)
 
 
+## Scripts
+```bash
+npm run start      # starts server
+npm run dev        # starts server in watch mode, waiting for file changes
+```
+
+
 
 ## License
 
