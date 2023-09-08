@@ -2,11 +2,11 @@
 `A Social Media Rest API built with Node.JS , Express and Mongo Db`
 
 ## Features:
-- Make posts, like them , add comments and replies
-- User login, sign up, and authentication
+- Make and Like posts, comments, replies
 - See likes for posts, comments, replies
 - Follow, unfollow
-- Customize your user profile
+- Update user information
+- User login, sign up, and authentication
 - Image uploads
 - See feed post of users you followed them
 
